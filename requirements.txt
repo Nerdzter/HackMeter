@@ -1,0 +1,7 @@
+pyfiglet==0.8.post1           # Estilo de texto tipo terminal hacker
+requests==2.31.0              # Para fazer requisições HTTP
+beautifulsoup4==4.12.3        # Scraping HTML simples
+lxml==5.2.1                   # Parser rápido pro BeautifulSoup
+rich==13.7.1                  # Print estilizado no terminal (opcional, mas poderoso)
+tqdm==4.66.2                  # Barra de progresso
+duckduckgo-search==4.4       # Busca na web via DuckDuckGo
