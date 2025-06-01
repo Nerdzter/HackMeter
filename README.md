@@ -111,7 +111,7 @@ Facebook: João da Silva
 
 ## 🧠 Desenvolvido por
 
-**Desenvolvedor anônimo**  
+**Desenvolvedor - Nayderson**  
 [GitHub](https://github.com/Nerdzter)
 
 ---
