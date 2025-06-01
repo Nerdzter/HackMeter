@@ -1,7 +1,6 @@
 
 # HackMeter 🔍 - Nayderson
 
-![HackMeter Banner](https://via.placeholder.com/800x200?text=HackMeter+-+Investigador+Digital)  
 **Versão 1.0**
 
 ---
