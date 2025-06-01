@@ -86,12 +86,6 @@ Facebook: João da Silva
 
 ---
 
-## 📸 Prints do projeto
-
-> *(adicione aqui prints do terminal rodando, como o menu, uma busca completa e o relatório gerado)*
-
----
-
 ## 🤯 Dificuldades enfrentadas
 
 - 🧱 *Rate limit da API do DuckDuckGo*: resolvido com tratamento de erro e `sleep`.
